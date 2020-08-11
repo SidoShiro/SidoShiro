@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on my Life ✨ 
 - 🌱 I’m currently learning PyTorch/React/Crystal/ReactNative
 - 👯 I’m looking to collaborate on C stuff !
-- 💬 Ask me about anything I will learn something by ssearching ✨  !
 - ⚡ Fun fact: my laptop PC has a dead fan 💀
 
 <!-- [![SidoShiro's github stats](https://github-readme-stats.vercel.app/api?username=SidoShiro&show_icons=true&theme=gruvbox)](https://github.com/SidoShiro) -->
