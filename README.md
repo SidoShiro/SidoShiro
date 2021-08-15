@@ -1,9 +1,7 @@
-## Hello World ! 👋
-
-- 🔭 I’m currently working on my Life ✨ 
-- 🌱 I’m currently learning PyTorch/React/Crystal/ReactNative
-- 👯 I’m looking to collaborate on C stuff !
-- ⚡ Fun fact: my laptop PC has a dead fan 💀
+👋
+<!-- - 🔭 I’m currently working on my Life ✨ -->
+- 🌱 I’m currently learning PyTorch/React/Crystal/ReactNative ✨ 
+- 👯 I’m looking to collaborate on C/C++ or Golang stuff !
 
 <!-- [![SidoShiro's github stats](https://github-readme-stats.vercel.app/api?username=SidoShiro&show_icons=true&theme=gruvbox)](https://github.com/SidoShiro) -->
 
