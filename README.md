@@ -1,4 +1,4 @@
-👋
+👋 :fr: :ru: :uk:
 <!-- - 🔭 I’m currently working on my Life ✨ -->
 - 🌱 I’m currently learning PyTorch/React/Crystal/ReactNative ✨ 
 - 👯 I’m looking to collaborate on C/C++ or Golang stuff !
