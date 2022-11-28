@@ -1,8 +1,13 @@
 👋 :fr: :ru: :uk:
 <!-- - 🔭 I’m currently working on my Life ✨ -->
+- Currently working as a DevOps in banking sector
 - :crab: Just started Rust !!! Amazing !
-- 🌱 I’m currently learning PyTorch/Crystal ✨ 
-- 👯 I’m looking to collaborate on C/C++ or Golang stuff !
+- 🌱 I’m currently learning Rust / Golang Advanced / AWS / GCP / Terraform
+- 👯 I’m looking to collaborate on C/C++/Rust/Golang stuff !
+
+Backlog:
+- Learn PyTorch/Crystal ✨
+- Improve my Vim skills (advanced)
 
 <!-- [![SidoShiro's github stats](https://github-readme-stats.vercel.app/api?username=SidoShiro&show_icons=true&theme=gruvbox)](https://github.com/SidoShiro) -->
 
