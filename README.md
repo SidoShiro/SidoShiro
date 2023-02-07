@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on C/C++/Rust/Golang stuff !
 
 Backlog:
+- Pass GCP and AWS Cloud Certifications, as it is my daily job for years already ⚡
 - Learn PyTorch/Crystal ✨
 - Improve my Vim skills (advanced)
 
