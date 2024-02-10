@@ -1,6 +1,6 @@
 👋 :fr: :ru: :uk:
 <!-- - 🔭 I’m currently working on my Life ✨ -->
-- Currently working as a DevOps in banking sector
+- Currently working as a DevOps
 - :crab: Just started Rust !!! Amazing !
 - 🌱 I’m currently learning Rust / Golang Advanced / AWS / GCP / Terraform
 - 👯 I’m looking to collaborate on C/C++/Rust/Golang stuff !
